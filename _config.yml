@@ -1,5 +1,7 @@
 title: Harshini Jawahar
-logo: /assets/Untitled%20design.jpeg
+#logo: /assets/Untitled%20design.jpeg
+logo: https://raw.githubusercontent.com/harshini8-10/harshinijawahar.github.io/main/assets/Untitled%20design.jpeg
+
 show_downloads: true
 theme: jekyll-theme-minimal
 # other themes : Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
