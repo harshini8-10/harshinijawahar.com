@@ -1,4 +1,3 @@
-# Welcome to Harshini Jawahar's Portfolio!
 
 # Data Scientist
 ## 🏆 Datathon Winner (EdTech Track)  [Devpost](https://csueastbay-datathon-2024.devpost.com/project-gallery)         
@@ -67,7 +66,7 @@ Crum & Forster, Michigan [Remote]
 
 
 •	[Analysis of Revenue Trends of the Magnificent 7 Companies During and Post-Covid-19 Pandemic](https://github.com/harshini8-10/Magnificent7_Pandemic_RevenueAnalysis) - Time Series Forecast using R 
-  |[WATCH VIDEO](https://youtu.be/QFhYwAtGUMQ?si=2vSNrMiRcu--jRH)
+   | [WATCH VIDEO](https://youtu.be/QFhYwAtGUMQ?si=2vSNrMiRcu--jRH) |
 
 • Caps for All: Bridging Gaps in Education Through Data-Driven Insights - In-depth Exploratory Data Analysis using Python
 
