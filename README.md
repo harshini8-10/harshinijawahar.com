@@ -8,16 +8,19 @@
 ### Education
 #### Master of Science in Business Analytics  [Aug 2023 - Dec 2024]
 California State University, East Bay
+
 G.P.A : 4.0/4.0
 
 Relevant Courseworks: Machine Learning, Data Mining, Statistics, Time Series Analytics, Data Analytics, Database Management & Applications
 
 #### Master of Fashion Technology (Marketing & Merchandising)  [Aug 2017 - May 2019]
 National Institute of Fashion Technology, India
+
 G.P.A : 8.63/10.0
 
 #### Bachelor of Technology in Electrical & Electronics Engineering  [Aug 2013 - May 2017]
 Pondicherry Engineering College, India
+
 G.P.A : 8.69/10.0
 
 ### Skills
