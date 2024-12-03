@@ -68,7 +68,7 @@ Crum & Forster, Michigan [Remote]
 •	[Analysis of Revenue Trends of the Magnificent 7 Companies During and Post-Covid-19 Pandemic](https://github.com/harshini8-10/Magnificent7_Pandemic_RevenueAnalysis) - Time Series Forecast using R 
    | [WATCH VIDEO](https://youtu.be/QFhYwAtGUMQ?si=2vSNrMiRcu--jRH) |
 
-•  [Caps for All: Bridging Gaps in Education Through Data-Driven Insights](https://devpost.com/software/caps-for-all) - In-depth Exploratory Data Analysis using Python
+•  [Caps for All: Bridging Gaps in Education Through Data-Driven Insights](https://github.com/harshini8-10/Caps-For-All) - In-depth Exploratory Data Analysis using Python
 
 •	[Beyond the Menu: Clustering Nutritional Patterns of Major Fast-Food Chains](https://github.com/harshini8-10/FastFoodClustering) - Cluster Analysis using Python
 
