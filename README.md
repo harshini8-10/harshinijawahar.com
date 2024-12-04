@@ -38,7 +38,7 @@ Landmark Group, India
 
 •	Performed ad-hoc analysis using MySQL to adjust seasonal inventory, reducing stock imbalances by 25% during peak seasons.
 
-•	Developed Tableau dashboards to visualize stock levels and sales performance, improving stock replenishment efficiency by 25%.
+•	Developed Tableau dashboards to visualize stock levels and sales performance, improving stock replenishment efficiency by 27%.
 
 •	Applied time series forecasting (ARIMA, Holt-Winters) in R, improving sales forecast accuracy by 18%, aiding better inventory allocation.
 
