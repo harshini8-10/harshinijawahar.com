@@ -72,7 +72,7 @@ Crum & Forster, Michigan [Remote]
 
 •	[Beyond the Menu: Clustering Nutritional Patterns of Major Fast-Food Chains](https://github.com/harshini8-10/FastFoodClustering) - Cluster Analysis using Python
 
-•	[Mushroom Mystery: Predicting Edible vs. Poisonous Varieties Using Machine Learning Models] (https://github.com/harshini8-10/Mushroom-Mystery) - Binary Classification using Python
+•	[Mushroom Mystery: Predicting Edible vs. Poisonous Varieties Using Machine Learning Models](https://github.com/harshini8-10/Mushroom-Mystery) - Binary Classification using Python
 
 •	[Analysis of impact of Covid-19 Pandemic on the Revenue of Alaska Airlines](https://github.com/harshini8-10/AlaskaAirlinesRevenueForecast) - Time Series Forecast using R
 
