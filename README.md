@@ -8,7 +8,7 @@
 #### Master of Science in Business Analytics  [Aug 2023 - Dec 2024]
 California State University, East Bay
 
-🏆 Top 1% of Class | G.P.A : 4.0/4.0
+🏆 Top 1% of Class | G.P.A : 3.98/4.0
 
 Relevant Courseworks: Machine Learning, Data Mining, Statistics, Time Series Analytics, Data Analytics, Database Management & Applications
 
